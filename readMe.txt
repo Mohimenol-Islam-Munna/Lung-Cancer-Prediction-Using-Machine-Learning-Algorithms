@@ -1,3 +1,3 @@
-Bsc Engineering Thesis Paper.
+Bsc Engineering Thesis.
 
 Thesis Name: Lung Cancer Prediction Using Machine Learning Algorithms.
